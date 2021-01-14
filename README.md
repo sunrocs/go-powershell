@@ -62,9 +62,9 @@ package main
 import (
 	"fmt"
 
-	ps "github.com/gorillalabs/go-powershell"
-	"github.com/gorillalabs/go-powershell/backend"
-	"github.com/gorillalabs/go-powershell/middleware"
+	ps "github.com/sunrocs/go-powershell"
+	"github.com/sunrocs/go-powershell/backend"
+	"github.com/sunrocs/go-powershell/middleware"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/solariums/go-powershell
+module github.com/sunrocs/go-powershell
 
 go 1.13
 
